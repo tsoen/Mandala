@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>mandala_fr.qm</file>
+        <file>mandala_fr.ts</file>
+    </qresource>
+</RCC>
